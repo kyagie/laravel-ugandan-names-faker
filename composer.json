@@ -1,0 +1,18 @@
+{
+    "name": "kyagie/laravel-ugandan-names-faker",
+    "description": "A faker package that generates Ugandan names of people.",
+    "type": "laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kyagie\\LaravelUgandanNamesFaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kyagulanyi K. Arthur"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
